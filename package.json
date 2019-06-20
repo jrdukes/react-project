@@ -1,5 +1,5 @@
 {
-  "name": "react-project",
+  "name": "my-react-proj",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,25 +11,27 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jrdukes/react-project.git"
+    "url": "git+https://github.com/tripott/my-react-proj.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jrdukes/react-project/issues"
+    "url": "https://github.com/tripott/my-react-proj/issues"
   },
-  "homepage": "https://github.com/jrdukes/react-project#readme",
+  "homepage": "https://github.com/tripott/my-react-proj#readme",
   "devDependencies": {
     "eslint": "^5.16.0",
     "eslint-config-prettier": "^5.0.0",
     "eslint-plugin-import": "^2.17.3",
     "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-react": "^7.13.0",
     "eslint-plugin-react-hooks": "^1.6.0",
     "parcel-bundler": "^1.12.3",
     "prettier": "^1.18.2"
   },
   "dependencies": {
+    "@frontendmasters/pet": "^1.0.3",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
   }
