@@ -10,7 +10,6 @@
   "rules": {
     "react/prop-types": 0,
     "no-console": 1,
-    // 0 = ignore, 1 = warning, 2 = throw an error if console.log is run
     "react-hooks/rules-of-hooks": 2,
     "react-hooks/exhaustive-deps": 1
   },
